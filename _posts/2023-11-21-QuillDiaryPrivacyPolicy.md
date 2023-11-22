@@ -114,6 +114,8 @@ We encourage parents or guardians to guide minors under the age of eighteen to u
 
 
 
+---
+
 
 
 # 碎碎记隐私政策

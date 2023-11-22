@@ -62,6 +62,8 @@ By using this software, users are deemed to fully agree to and accept all the te
 
 
 
+---
+
 
 
 # 碎碎记隐私政策
