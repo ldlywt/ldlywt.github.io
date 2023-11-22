@@ -1,7 +1,8 @@
 ---
 title: Vscode log 颜色高亮配置
-date: 2023-11-21 10:00:00
-categories: [碎碎记]
+date: 2023-11-22 20:00:00
+categories: [效率开发]
+tags: [vscode]
 ---
 
 用 vscode 查看 txt 或者 log 文件，把不同log 等级的颜色进行不同的配色，以便于更好的查看log 文件。
