@@ -4,8 +4,6 @@ date: 2023-11-21 10:00:00
 categories: [碎碎记]
 ---
 
-# QuillDiary User Agreement
-
 Welcome to the QuillDiary Notes App.
 
 Before using this application, please read this user agreement carefully. This agreement includes the following terms:
