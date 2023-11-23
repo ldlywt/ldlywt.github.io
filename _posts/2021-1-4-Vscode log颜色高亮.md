@@ -1,6 +1,6 @@
 ---
 title: Vscode log 颜色高亮配置
-date: 2023-11-22 20:00:00
+date: 2021-1-4 20:00:00
 categories: [效率开发]
 tags: [vscode]
 ---
