@@ -1,6 +1,6 @@
 ---
-title: 胡适写给儿子的信
-date: 2021-06-09 11:11:11.000000000 +09:00
+title: EditText 和 TextView设置部分点击和变色
+date: 2023-01-01 11:11:11.000000000 +09:00
 categories: [Android]
 tags: [Kotlin]
 ---
