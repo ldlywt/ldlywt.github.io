@@ -1,5 +1,5 @@
 ---
-title: QuillDiary Privacy Policy
+title: IdeaMemo Privacy Policy
 date: 2023-11-21 10:00:00
 categories: [碎碎记]
 ---
@@ -10,7 +10,7 @@ Effective date: 2023/4/19
 
 # Preface
 
-QuillDiary is a product provided by Mr. Mango (hereinafter referred to as "we"). When you use our services, we may collect and use your relevant information. We hope to explain to you through this "Privacy Policy" how we collect, use, store and share this information when using our services, and how we provide you with access, update, control and protection of this information. This "Privacy Policy" is closely related to the services you use. I hope you read it carefully and make the choices you deem appropriate according to the guidelines of this "Privacy Policy" when needed. For the relevant technical terms involved in this "Privacy Policy", we try to use concise and concise expressions and provide links to further explanations for your understanding.
+IdeaMemo is a product provided by Mr. Mango (hereinafter referred to as "we"). When you use our services, we may collect and use your relevant information. We hope to explain to you through this "Privacy Policy" how we collect, use, store and share this information when using our services, and how we provide you with access, update, control and protection of this information. This "Privacy Policy" is closely related to the services you use. I hope you read it carefully and make the choices you deem appropriate according to the guidelines of this "Privacy Policy" when needed. For the relevant technical terms involved in this "Privacy Policy", we try to use concise and concise expressions and provide links to further explanations for your understanding.
 
 By using or continuing to use our services, you agree to our collection, use, storage and sharing of your relevant information in accordance with this Privacy Policy.
 
