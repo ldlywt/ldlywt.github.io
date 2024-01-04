@@ -1,10 +1,10 @@
 ---
-title: QuillDiary User Agreement
+title: IdeaMemo User Agreement
 date: 2023-11-21 10:00:00
 categories: [碎碎记]
 ---
 
-Welcome to the QuillDiary Notes App.
+Welcome to the IdeaMemo App.
 
 Before using this application, please read this user agreement carefully. This agreement includes the following terms:
 
